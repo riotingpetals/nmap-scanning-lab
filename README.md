@@ -23,4 +23,5 @@ Scan and analyze network to discover devices and vulnerabilities
 
 ## Nmap Results
 
-![Nmap Results]
+![Nmap Results](screenshots/nmap_results.txt)
+
